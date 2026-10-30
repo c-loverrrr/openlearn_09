@@ -1,1 +1,1 @@
-status: docs in progress
+status: docs and feature merged
