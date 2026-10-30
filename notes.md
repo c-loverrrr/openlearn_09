@@ -1,3 +1,1 @@
-# 项目状态
-
-项目状态：开发中
+status: feature in progress
